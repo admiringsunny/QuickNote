@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuickNote</string>
+    <string name="et_hint">Enter Text Here\n(Max. 5000 characters)</string>
+    <string name="save_text">Save</string>
+    <string name="toast_not_saved">Not Saved</string>
+    <string name="toast_saved">Saved</string>
+    <string name="save">Save</string>
+</resources>
